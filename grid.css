@@ -1,0 +1,49 @@
+h4 {
+  margin-top: 25px;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+.row .row {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+.udid-bg {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #eee;
+  /*background-color: rgba(86,61,124,.15);*/
+  border: 1px solid #ddd;
+  /*border: 1px solid rgba(86,61,124,.2);*/
+}
+
+.udid-bg-not-right{
+    border-right-width: 0px;
+    margin-right: -1px;
+    z-index: 1000;
+}
+.udid-bg-not-left{
+    margin-right: 1px;
+}
+
+
+
+hr {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.autobreakline{
+    word-wrap: break-word;
+    word-break: normal;
+}
+
+
+#second-title{
+    margin-top: 30px;
+    padding-top: 20px;
+    margin-bottom: -10px;
+    /*font-size: 10px;*/
+    text-align: right;
+    color: #cccccc;
+}
